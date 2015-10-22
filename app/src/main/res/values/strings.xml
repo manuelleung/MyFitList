@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFitList</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_newtask">New Task</string>
+
+</resources>
